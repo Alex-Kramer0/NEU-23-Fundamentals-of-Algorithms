@@ -1,5 +1,5 @@
 # Algorithms
-This algorithms course was taken at Northeastern University while working on my Master's in Data Science, Fall 2023.
+This algorithms course was taken at Northeastern University while working on my Master's in Data Science during the Fall 2023 semester.
 
 ## Overview
 This course introduces students to the analysis and design of computer algorithms. Upon completion of this course, students will be able to do the following:
@@ -7,9 +7,6 @@ This course introduces students to the analysis and design of computer algorithm
 • Demonstrate a familiarity with major algorithms and data structures.
 • Apply important algorithmic design paradigms and methods of analysis.
 • Synthesize efficient algorithms in common engineering design situations.
-
-### Instructor: Xue (Shelley) Lin, Associate Professor, Dept. of Electrical and Computer Engineering
-Website: https://web.northeastern.edu/xuelin/
 
 ## Course Topics:
 • Analysis of Algorithms, Insertion Sort, Mergesort
@@ -30,6 +27,10 @@ Website: https://web.northeastern.edu/xuelin/
 • Greedy Algorithms, Minimum Spanning Trees
 • Shortest Paths
 • Advanced Topics
+
+
+### Instructor: Xue (Shelley) Lin, Associate Professor, Dept. of Electrical and Computer Engineering
+Website: https://web.northeastern.edu/xuelin/
 
 ### Textbook:
 Cormen, Thomas, Charles Leiserson, Ronald Rivest, and Clifford Stein. Introduction to
