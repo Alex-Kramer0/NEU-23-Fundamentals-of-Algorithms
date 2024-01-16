@@ -1,4 +1,4 @@
-# Fundamentals of Computer Engineering: Algorithms
+# Fundamentals of Computer Algorithms
 This algorithms course was taken at Northeastern University while working on my Master's in Data Science during the Fall 2023 semester.
 
 ## Overview
