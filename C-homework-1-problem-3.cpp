@@ -1,4 +1,4 @@
-//  Alex Kramer - 002626673
+//  Alex Kramer - 
 //  EECE 7205
 //  Homework 1 
 //  Problem-3.cpp
